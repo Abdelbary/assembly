@@ -1,5 +1,5 @@
 
-name "strig-search-program"  
+name "I/O Strign program"  
 
 ; add your code here
 .model small
