@@ -1,4 +1,3 @@
-
 name "I/O Strign program"  
 
 ; add your code here
